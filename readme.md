@@ -22,6 +22,10 @@ Os dados estão disponíveis na aba `Data`.
 |`Freight Out ` |Fretes saindo da Australia, em toneladas   |
 |   `Mail Out`  |   Correio saindo da Australia, em toneladas  |
 
+# Case
+O case está disponível em: [Case série de passageiros entrantes](https://github.com/rodgdutra/case_passager_time_series/blob/main/case_time_series_pred.ipynb).
+
+Caso não renderize, aqui está o link alternativo: [Case série de passageiros entrantes](https://nbviewer.org/github/rodgdutra/case_passager_time_series/blob/main/case_time_series_pred.ipynb).
 
 # Objetivos
 - A. Observar suas características relevantes, como comportamento sazonal, estacionariedade, presença de
