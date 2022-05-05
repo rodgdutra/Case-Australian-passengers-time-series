@@ -14,7 +14,6 @@ Os dados estão disponíveis na aba `Data`.
 |:---------------------------------------:|:------------:|
 |   `Month`   |  Mês da observação  |
 | `Scheduled Operator` |Linha aérea.   |
-| `salario_mensal`|Salário mensal do cliente.|
 |`Country to/from`|País de Origem/Destino.|
 |  `Passengers In`|Quantidade de passageiros entrantes na Australia.   |
 | `Freight In` | Fretes entrantes na Australia, em toneladas. |
